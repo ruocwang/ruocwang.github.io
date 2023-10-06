@@ -71,6 +71,6 @@ For the past years, I have mainly focused on the following areas (chronological 
 - Neural Architecture Search
   
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
