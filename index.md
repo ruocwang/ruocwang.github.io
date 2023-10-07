@@ -8,7 +8,7 @@ layout: homepage
 
 I am currently a Ph.D. student at UCLA advised by Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a continuing Student Researcher at Google working on text-based generative models (previously [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en) and [Ting Liu](https://research.google/people/105496/).
 My research area is Efficient and Automated Methods for Machine Learning (AIGC, AutoML, Dataset).
-I was the recepient of the **Outstanding Paper Award** at ICLR 2021.
+I was the recepient of the [[**Outstanding Paper Award**(https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)]] at ICLR 2021.
 Besides research, I am also open to venture capital and entrepreneurial opportunities.
 
 I obtained my B.S. degree (dual) in Computer Science and Statistics from the University of Michigan, with the highest distinction.
@@ -34,7 +34,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 ## Outreach
 
 - **VC/Startups** I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
-- **Prospective Students** I am currently forming a Research Alliance to pursue topics in large-scale text-based generative models (LLMs, Diffusion Models). As part of this endeavor, I will no longer advise interns on my own; Instead, qualified students will be joining this team and under the direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself. For more information on the management, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing). If you are interested, please send an application to [my email](ruocwang@g.ucla.edu) and include your resume, publication record (working-in progress papers are fine), and 1-2 paragraph explaining your area of interests in AIGC.
+- [[**Prospective Students**]()] I am currently forming a Research Alliance to pursue topics in large-scale text-based generative models (LLMs, Diffusion Models). As part of this endeavor, I will no longer advise interns on my own; Instead, qualified students will be joining this team and under the direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself. For more information on the management, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing). If you are interested, please send an application to [my email](ruocwang@g.ucla.edu) and include your resume, publication record (working-in progress papers are fine), and 1-2 paragraph explaining your area of interests in AIGC.
 
 
 ## News
@@ -49,7 +49,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 - [May 2022] I received Outstanding Graduate Student Award for the Master's degree at UCLA.
 - **[Jan. 2022]** Two papers accepted at ICLR 2022.
 - **[Jul. 2021]** One paper accepted at ICCV 2021.
-- **[Apr. 2021]** Our paper *"Rethinking Architecture Selection in Differentiable NAS"* won the <span style="color:red">**Outstanding Paper Award**</span> at ICLR 2021.
+- **[Apr. 2021]** Our paper *"Rethinking Architecture Selection in Differentiable NAS"* won the [[**Outstanding Paper Award**](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)] at ICLR 2021.
 - **[Jan. 2021]** Two papers accepted at ICLR 2021.
 
 

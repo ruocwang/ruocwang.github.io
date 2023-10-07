@@ -11,7 +11,7 @@ main:
   #   notes: Early Accept
 
   - title: "Paper on Multi-Agent Prompting for LLM"
-    authors: <strong>Ruochen Wang*</strong>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
+    authors: <p style="color:red">This text is red.</p><strong>Ruochen Wang*</strong>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2023.
     notes: Under Review
