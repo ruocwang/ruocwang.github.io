@@ -68,14 +68,14 @@ main:
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.
     pdf: https://arxiv.org/abs/2203.15207
     code: https://github.com/skhu101/GM-NAS
-    image: 
+    image: assets/img/ValienteAvatar.webp
 
   - title: "Learning to Schedule Learning rate with Graph Neural Networks"
     authors: Yuanhao Xiong, Li-Cheng Lan, Xiangning Chen, <strong>Ruochen Wang</strong>, Cho-Jui Hsieh
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.
     pdf: https://openreview.net/pdf?id=k7efTb0un9z
-    image: 
+    image: assets/img/BaconAvatar.webp
 
   - title: "RANK-NOSH: Efficient Predictor-Based NAS via Non-Uniform Successive Halving"
     authors: <u><strong>Ruochen Wang</strong></u>, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh
