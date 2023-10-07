@@ -8,10 +8,10 @@ layout: homepage
 
 I am currently a Ph.D. student at UCLA advised by Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a continuing Student Researcher at Google working on text-based generative models (previously [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en) and [Ting Liu](https://research.google/people/105496/).
 My research area is Efficient and Automated Methods for Machine Learning (AIGC, AutoML, Dataset).
-I was the recepient for the Outstanding Paper Award at ICLR 2021.
+I was the recepient of the **Outstanding Paper Award** at ICLR 2021.
 Besides research, I am also open to venture capital and entrepreneurial opportunities.
 
-I obtained my B.S. degree (dual) in Computer Science and Statistics at the University of Michigan, with the highest distinction.
+I obtained my B.S. degree (dual) in Computer Science and Statistics from the University of Michigan, with the highest distinction.
 During this period, I interned at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Sensetime](https://www.sensetime.com/en) on machine learning and computer vision, as well as helped a startup to develop its prototype robots.
 Prior to that, I worked on quantitative investing at Shanghai Key Laboratory of Finance.
 

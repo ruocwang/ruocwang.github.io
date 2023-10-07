@@ -94,7 +94,7 @@ a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { width: 1960px; margin: 0 auto; }
+.wrapper { width: 960px; margin: 0 auto; }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
@@ -145,7 +145,7 @@ hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
 footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-smoothing: subpixel-antialiased; text-align: center; }
 
-@media print, screen and (max-width: 1960px) { .pub-row { display: flex; align-items: center; }
+@media print, screen and (max-width: 960px) { .pub-row { display: flex; align-items: center; }
   div.wrapper { width: auto; margin: 0; }
   header, section, footer { float: none; position: static; width: auto; }
   header { padding-right: 320px; }
