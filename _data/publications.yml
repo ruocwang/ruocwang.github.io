@@ -82,15 +82,16 @@ main:
     conference_short: ICCV
     conference: The IEEE / CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.
     pdf: https://arxiv.org/abs/2108.08019
-    code: https://github.com/ruocwang/
+    # code: https://github.com/ruocwang/
     image: assets/img/BarbieAvatar.webp
 
   - title: "Rethinking Architecture Selection in Differentiable NAS"
     authors: <strong>Ruochen Wang</strong>, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
-    pdf: https://arxiv.org/abs/2203.15207
-    code: https://github.com/skhu101/GM-NAS
+    pdf: https://arxiv.org/abs/2108.04392
+    code: https://github.com/ruocwang/darts-pt
+    page: https://papertalk.org/papertalks/28912
     image: assets/img/Hachi_Shiba.webp
     notes: Outstanding Paper Award (1/8)
 
@@ -98,6 +99,6 @@ main:
     authors: Xiangning Chen*, <strong>Ruochen Wang*</strong>, Minhao Cheng*, Xiaocheng Tang, Cho-Jui Hsieh (*Equal Contribution)
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
-    pdf: https://arxiv.org/abs/2203.15207
-    code: https://github.com/skhu101/GM-NAS
+    pdf: https://arxiv.org/abs/2006.10355
+    code: https://github.com/xiangning-chen/DrNAS
     image: assets/img/MacchiatoAvatar.webp
