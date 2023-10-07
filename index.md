@@ -6,10 +6,10 @@ layout: homepage
 
 (migrating not finished)
 
-Welcome to my page.
 I am currently a Ph.D. student at UCLA advised by Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a continuing Student Researcher at Google working on text-based generative models (previously [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en) and [Ting Liu](https://research.google/people/105496/).
 My research area is Efficient and Automated Methods for Machine Learning (AIGC, AutoML, Dataset).
-Besides research, I am also open to venture capital and entrepreneurial opportunities.)
+I was the recepient for the Outstanding Paper Award at ICLR 2021.
+Besides research, I am also open to venture capital and entrepreneurial opportunities.
 
 I obtained my B.S. degree (dual) in Computer Science and Statistics at the University of Michigan, with the highest distinction.
 During this period, I interned at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Sensetime](https://www.sensetime.com/en) on machine learning and computer vision, as well as helped a startup to develop its prototype robots.
@@ -20,8 +20,7 @@ Prior to that, I worked on quantitative investing at Shanghai Key Laboratory of 
 
 I study the problem of **AI for AI**.
 The goal is to leverage the power of AI agents to automatize the development of itself.
-For the past years, I have mainly focused on the following areas (chronological order)
-
+For the past years, I have mainly focused on the following areas:
 - **Automated Methods for Multimodal Language Agents (Current)** <br/>
 e.g. [[MoP]()] [[DPO-Diff]()]
 - **Dataset Compression (DD/DC)** <br/>
@@ -35,7 +34,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 ## Outreach
 
 - **VC/Startups** I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
-- <p class="red-text">**Prospective Students**</p> I am currently forming a Research Alliance to pursue topics in large-scale text-based generative models (LLMs, Diffusion Models). As part of this endeavor, I will no longer advise interns on my own; Instead, qualified students will be joining this team and under the direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself. For more information on the management, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing). If you are interested, please send an application to [my email](ruocwang@g.ucla.edu) and include your resume, publication record (working-in progress papers are fine), and 1-2 paragraph explaining your area of interests in AIGC.
+- **Prospective Students** I am currently forming a Research Alliance to pursue topics in large-scale text-based generative models (LLMs, Diffusion Models). As part of this endeavor, I will no longer advise interns on my own; Instead, qualified students will be joining this team and under the direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself. For more information on the management, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing). If you are interested, please send an application to [my email](ruocwang@g.ucla.edu) and include your resume, publication record (working-in progress papers are fine), and 1-2 paragraph explaining your area of interests in AIGC.
 
 
 ## News
