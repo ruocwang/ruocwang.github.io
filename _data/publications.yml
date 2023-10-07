@@ -11,42 +11,42 @@ main:
   #   notes: Early Accept
 
   - title: "Paper on Multi-Agent Prompting for LLM"
-    authors: <p style="color:red">This text is red.</p><strong>Ruochen Wang*</strong>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
+    authors: <p style="color:gold;"><u><strong>Ruochen Wang*</strong></u></p>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2023.
     notes: Under Review
     image: assets/img/HarryAvatar.webp
 
   - title: "Paper on improving/attacking Text-to-Image Diffusion Models"
-    authors: <strong>Ruochen Wang</strong>, Ting Liu, Cho-jui Hsieh, Boqing Gong
+    authors: <p style="color:gold;"><u><strong>Ruochen Wang</strong></u></p>, Ting Liu, Cho-jui Hsieh, Boqing Gong
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2023.
     notes: Under Review, work done at Google
     image: assets/img/MoonmoonAvatar.webp
 
   - title: "Mitigating Bias in Dataset Distillation"
-    authors: Justin Cui, <strong>Ruochen Wang</strong>, Yuanhao Xiong, Cho-jui Hsieh
+    authors: Justin Cui, <p style="color:gold;"><u><strong>Ruochen Wang</strong></u></p>, Yuanhao Xiong, Cho-jui Hsieh
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2023.
     notes: Under Review
     image: assets/img/CocoAvatar.webp
 
   - title: "Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory"
-    authors: Justin Cui, <strong>Ruochen Wang</strong>, Si Si, Cho-jui Hsieh
+    authors: Justin Cui, <p style="color:gold;"><u><strong>Ruochen Wang</strong></u></p>, Si Si, Cho-jui Hsieh
     conference_short: ICML
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     pdf: https://arxiv.org/abs/2211.10586
     image: assets/img/NemoAvatar.webp
 
   - title: "FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning"
-    authors: Yuanhao Xiong*, <strong>Ruochen Wang*</strong>, Minhao Cheng, Felix Yu, Cho-Jui Hsieh (*Equal Contribution)
+    authors: Yuanhao Xiong*, <p style="color:gold;"><u><strong>Ruochen Wang*</strong></u></p>, Minhao Cheng, Felix Yu, Cho-Jui Hsieh (*Equal Contribution)
     conference_short: CVPR
     conference: The IEEE / CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2023.
     pdf: https://arxiv.org/abs/2207.09653
     image: assets/img/OttaAvatar.webp
 
   - title: "DC-BENCH: Dataset Condensation Benchmark"
-    authors: Justin Cui, <strong>Ruochen Wang</strong>, Si Si, Cho-Jui Hsieh
+    authors: Justin Cui, <p style="color:gold;"><u><strong>Ruochen Wang</strong></u></p>, Si Si, Cho-Jui Hsieh
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2022.
     pdf: https://arxiv.org/abs/2207.09639
@@ -55,7 +55,7 @@ main:
     image: assets/img/CarrotAvatar.webp
 
   - title: "Efficient Non-Parametric Optimizer Search for Diverse Tasks"
-    authors: Justin Cui, <strong>Ruochen Wang</strong>, Si Si, Cho-Jui Hsieh
+    authors: Justin Cui, <p style="color:gold;"><u><strong>Ruochen Wang</strong></u></p>, Si Si, Cho-Jui Hsieh
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2022.
     pdf: https://arxiv.org/abs/2209.13575
@@ -63,7 +63,7 @@ main:
     image: assets/img/TiagraAvatar.webp
 
   - title: "Generalizing Few-Shot NAS with Gradient Matching"
-    authors: Shoukang Hu*, <strong>Ruochen Wang*</strong>, Lanqing Hong, Zhenguo Li, Cho-Jui Hsieh, Jiashi Feng (*Equal Contribution)
+    authors: Shoukang Hu*, <p style="color:gold;"><u><strong>Ruochen Wang*</strong></u></p>, Lanqing Hong, Zhenguo Li, Cho-Jui Hsieh, Jiashi Feng (*Equal Contribution)
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.
     pdf: https://arxiv.org/abs/2203.15207
@@ -71,14 +71,14 @@ main:
     image: assets/img/ValienteAvatar.webp
 
   - title: "Learning to Schedule Learning rate with Graph Neural Networks"
-    authors: Yuanhao Xiong, Li-Cheng Lan, Xiangning Chen, <strong>Ruochen Wang</strong>, Cho-Jui Hsieh
+    authors: Yuanhao Xiong, Li-Cheng Lan, Xiangning Chen, <p style="color:gold;"><u><strong>Ruochen Wang</strong></u></p>, Cho-Jui Hsieh
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.
     pdf: https://openreview.net/pdf?id=k7efTb0un9z
     image: assets/img/BaconAvatar.webp
 
   - title: "RANK-NOSH: Efficient Predictor-Based NAS via Non-Uniform Successive Halving"
-    authors: <strong>Ruochen Wang</strong>, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh
+    authors: <p style="color:gold;"><u><strong>Ruochen Wang</strong></u></p>, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh
     conference_short: ICCV
     conference: The IEEE / CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.
     pdf: https://arxiv.org/abs/2108.08019
@@ -86,7 +86,7 @@ main:
     image: assets/img/BarbieAvatar.webp
 
   - title: "Rethinking Architecture Selection in Differentiable NAS"
-    authors: <strong>Ruochen Wang</strong>, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
+    authors: <p style="color:gold;"><u><strong>Ruochen Wang</strong></u></p>, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
     pdf: https://arxiv.org/abs/2108.04392
@@ -96,7 +96,7 @@ main:
     notes: Outstanding Paper Award (1/8)
 
   - title: "DrNAS: Dirichlet Neural Architecture Search"
-    authors: Xiangning Chen*, <strong>Ruochen Wang*</strong>, Minhao Cheng*, Xiaocheng Tang, Cho-Jui Hsieh (*Equal Contribution)
+    authors: Xiangning Chen*, <p style="color:gold;"><u><strong>Ruochen Wang*</strong></u></p>, Minhao Cheng*, Xiaocheng Tang, Cho-Jui Hsieh (*Equal Contribution)
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
     pdf: https://arxiv.org/abs/2006.10355

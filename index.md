@@ -8,7 +8,7 @@ layout: homepage
 
 I am currently a Ph.D. student at UCLA advised by Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a continuing Student Researcher at Google working on text-based generative models (previously [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en) and [Ting Liu](https://research.google/people/105496/).
 My research area is Efficient and Automated Methods for Machine Learning (AIGC, AutoML, Dataset).
-I was the recepient of the [[**Outstanding Paper Award**(https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)]] at ICLR 2021.
+I was the recepient of the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR 2021.
 Besides research, I am also open to venture capital and entrepreneurial opportunities.
 
 I obtained my B.S. degree (dual) in Computer Science and Statistics from the University of Michigan, with the highest distinction.
@@ -49,7 +49,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 - [May 2022] I received Outstanding Graduate Student Award for the Master's degree at UCLA.
 - **[Jan. 2022]** Two papers accepted at ICLR 2022.
 - **[Jul. 2021]** One paper accepted at ICCV 2021.
-- **[Apr. 2021]** Our paper *"Rethinking Architecture Selection in Differentiable NAS"* won the [[**Outstanding Paper Award**](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)] at ICLR 2021.
+- **[Apr. 2021]** Our paper *"Rethinking Architecture Selection in Differentiable NAS"* won the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR 2021.
 - **[Jan. 2021]** Two papers accepted at ICLR 2021.
 
 
