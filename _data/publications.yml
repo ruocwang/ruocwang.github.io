@@ -60,7 +60,7 @@ main:
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2022.
     pdf: https://arxiv.org/abs/2209.13575
     code: https://github.com/ruocwang/efficient-optimizer-search
-    image: ./assets/img/avatar.png
+    image: assets/img/MoonmoonAvatar.webp
 
   - title: "Generalizing Few-Shot NAS with Gradient Matching"
     authors: Shoukang Hu*, <strong>Ruochen Wang*</strong>, Lanqing Hong, Zhenguo Li, Cho-Jui Hsieh, Jiashi Feng (*Equal Contribution)
