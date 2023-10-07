@@ -22,14 +22,14 @@ I study the problem of **AI for AI**.
 The goal is to leverage the power of AI agents to automatize the development of itself.
 For the past years, I have mainly focused on the following areas (chronological order)
 
-- **Efficient and Automated Methods for Multimodal Language Agents (Current)**
-  - e.g. [[MoP]()] [[DPO-Diff]()]
-- **Dataset Compression (DD/DC)**
-  - e.g. [[TESLA](https://arxiv.org/abs/2211.10586)] [[DC-BENCH](https://dc-bench.github.io/)] [[FedDM](https://arxiv.org/abs/2207.09653)]
-- **Optimizer Search (OS)**
-  - e.g. [[ENOS](https://arxiv.org/abs/2209.13575)]
-- **Neural Architecture Search (NAS)**
-  - e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/abs/2006.10355)] [[GM-NAS](https://arxiv.org/abs/2203.15207)]
+- **Efficient and Automated Methods for Multimodal Language Agents (Current)** <br/>
+e.g. [[MoP]()] [[DPO-Diff]()]
+- **Dataset Compression (DD/DC)** <br/>
+e.g. [[TESLA](https://arxiv.org/abs/2211.10586)] [[DC-BENCH](https://dc-bench.github.io/)] [[FedDM](https://arxiv.org/abs/2207.09653)]
+- **Optimizer Search (OS)** <br/>
+e.g. [[ENOS](https://arxiv.org/abs/2209.13575)]
+- **Neural Architecture Search (NAS)** <br/>
+e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/abs/2006.10355)] [[GM-NAS](https://arxiv.org/abs/2203.15207)]
 
 
 ## Outreach
@@ -57,18 +57,14 @@ For the past years, I have mainly focused on the following areas (chronological 
 
 ## Industrial Experiences (Selected)
 
-- **Google Research** <br/>
-2023 - Present<br/>
-- Large Language Models
+- **Google Research** (2023 - Present)<br/>
+Large Language Models
 
-- **Google Research** <br/>
-2022 - 2023/6<br/>
-- Text-to-Image Diffusion Models
-- Eficient Transformers
+- **Google Research** (2022 - 2023)<br/>
+Text-to-Image Diffusion Models, Eficient Transformers
 
-- **Microsoft Research Asia** <br/>
-2019<br/>
-- Neural Architecture Search
+- **Microsoft Research Asia** (2019)<br/>
+Neural Architecture Search
   
 
 {% include_relative _includes/publications.md %}
