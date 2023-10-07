@@ -1,5 +1,5 @@
 main:
-
+<u>1st author papers marked with underline</u>
   # - title: Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
   #   conference_short: MICCAI
@@ -18,7 +18,7 @@ main:
     image: assets/img/HarryAvatar.webp
 
   - title: "Paper on improving/attacking Text-to-Image Diffusion Models"
-    authors: <strong>Ruochen Wang</strong>, Ting Liu, Cho-jui Hsieh, Boqing Gong
+    authors: <u><strong>Ruochen Wang</strong></u>, Ting Liu, Cho-jui Hsieh, Boqing Gong
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2023.
     notes: Under Review, work done at Google
@@ -55,7 +55,7 @@ main:
     image: assets/img/CarrotAvatar.webp
 
   - title: "Efficient Non-Parametric Optimizer Search for Diverse Tasks"
-    authors: Justin Cui, <strong>Ruochen Wang</strong>, Si Si, Cho-Jui Hsieh
+    authors: <u><strong>Ruochen Wang</strong></u>, Yuanhao Xiong, Minghao Cheng, Cho-Jui Hsieh
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2022.
     pdf: https://arxiv.org/abs/2209.13575
@@ -78,7 +78,7 @@ main:
     image: 
 
   - title: "RANK-NOSH: Efficient Predictor-Based NAS via Non-Uniform Successive Halving"
-    authors: <strong>Ruochen Wang</strong>, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh
+    authors: <u><strong>Ruochen Wang</strong></u>, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh
     conference_short: ICCV
     conference: The IEEE / CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.
     pdf: https://arxiv.org/abs/2108.08019
@@ -86,7 +86,7 @@ main:
     image: assets/img/BarbieAvatar.webp
 
   - title: "Rethinking Architecture Selection in Differentiable NAS"
-    authors: <strong>Ruochen Wang</strong>, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
+    authors: <u><strong>Ruochen Wang</strong></u>, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
     pdf: https://arxiv.org/abs/2203.15207
