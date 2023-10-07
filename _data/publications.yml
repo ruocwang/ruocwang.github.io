@@ -1,5 +1,5 @@
 main:
-<u>1st author papers marked with underline</u>
+  - title: <u>1st author papers marked with underline</u>
   # - title: Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
   #   conference_short: MICCAI
