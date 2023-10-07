@@ -13,7 +13,7 @@ main:
   - title: "Paper on Multi-Agent Prompting for LLM"
     authors: <strong>Ruochen Wang*</strong>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
     conference_short: Arxiv
-    # conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
+    conference: <strong>(Arxiv)</strong>, 2023.
     # pdf: https://arxiv.org/abs/2211.10586
     # code: 
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -24,7 +24,7 @@ main:
   - title: "Paper on improving/attacking Text-to-Image Diffusion Models"
     authors: <strong>Ruochen Wang</strong>, Ting Liu, Cho-jui Hsieh, Boqing Gong
     conference_short: Arxiv
-    # conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
+    conference: <strong>(Arxiv)</strong>, 2023.
     # pdf: https://arxiv.org/abs/2211.10586
     # code: 
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -35,7 +35,7 @@ main:
   - title: "Mitigating Bias in Dataset Distillation"
     authors: Justin Cui, <strong>Ruochen Wang</strong>, Yuanhao Xiong, Cho-jui Hsieh
     conference_short: Arxiv
-    # conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
+    conference: <strong>(Arxiv)</strong>, 2023.
     # pdf: https://arxiv.org/abs/2211.10586
     # code: 
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/

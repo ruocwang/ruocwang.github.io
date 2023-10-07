@@ -23,7 +23,7 @@ The goal is to leverage the power of AI agents to automatize the development of 
 For the past years, I have mainly focused on the following areas (chronological order)
 
 - **Efficient and Automated Methods for Multimodal Language Agents (Current)**
-  - Papers comming soon
+  - e.g. [[MoP]()] [[DPO-Diff]()]
 - **Dataset Compression (DD/DC)**
   - e.g. [[TESLA](https://arxiv.org/abs/2211.10586)] [[DC-BENCH](https://dc-bench.github.io/)] [[FedDM](https://arxiv.org/abs/2207.09653)]
 - **Optimizer Search (OS)**
@@ -42,11 +42,11 @@ For the past years, I have mainly focused on the following areas (chronological 
 ## News
 
 - **[Sep. 2023]** I will return to Google Research, focusing on advancing the state of Large Language Models.
-- **[Aug. 2023]** I formed a Research Alliance to pursue topics in AIGC. Interested minds can find more information in the Outreach section.
-- **[Apr. 2023]** [TESLA](https://arxiv.org/abs/2211.10586) is accepted at ICML 2023 - one of the first to scale-up Dataset Distillation to ImageNet-1K, surpassing prior art by a large margin.
+- **[Aug. 2023]** I formed a Research Alliance to pursue topics in AIGC (see the Outreach section for more info).
+- **[Apr. 2023]** [TESLA](https://arxiv.org/abs/2211.10586) is accepted at ICML 2023 - one of the first to scale-up Dataset Distillation to ImageNet-1K.
 - **[Mar. 2023]** [FedDM](https://arxiv.org/abs/2207.09653) is accepted at CVPR 2023.
 - **[Sep. 2022]** Two papers accepted at NeurIPS 2022.
-- **[Jul. 2022]** We released [DC-BENCH](https://justincui03.github.io/dcbench/) - the first benchmark for evaluating Dataset Condensation methods.
+- **[Jul. 2022]** We released [DC-BENCH](https://justincui03.github.io/dcbench/) - the first benchmark for evaluating Dataset Compression methods.
 - **[May. 2022]** I started my internship at Google Research, hosted by [Boqing Gong](http://boqinggong.info/) and [Ting Liu](http://www.tliu.org/).
 - [May 2022] I received Outstanding Graduate Student Award for the Master's degree at UCLA.
 - **[Jan. 2022]** Two papers accepted at ICLR 2022.
@@ -59,7 +59,7 @@ For the past years, I have mainly focused on the following areas (chronological 
 
 - **Google Research** <br/>
 2023 - Present<br/>
-- Large language models
+- Large Language Models
 
 - **Google Research** <br/>
 2022 - 2023/6<br/>
