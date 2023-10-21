@@ -13,7 +13,7 @@ main:
     authors: <u><strong>Ruochen Wang*</strong></u>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2023.
-    notes: Under Review, work done in AIGC Alliance
+    notes: Under Review
     image: assets/img/HarryAvatar.webp
 
   - title: "Paper on improving/attacking Text-to-Image Diffusion Models"
