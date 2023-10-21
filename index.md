@@ -32,7 +32,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 ## Outreach
 
 - **VC/Startups** I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
-- [[**Prospective Students**]()] I am currently leading a Research Alliance to pursue targeted topics in large-scale text-based generative models (LLMs, Diffusion Models). Qualified students will be joining this team and under the direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself. For more information on our culture and management style, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing). If you are interested, please send an application to [my email](ruocwang@g.ucla.edu) and attach your resume, publication record, and 1-2 paragraph justifying your area of interests in AIGC (digging into technical details are more than welcome!).
+- [[**Prospective Students**]()] I formed and am leading a Research Alliance to pursue targeted topics in large-scale text-based generative models (LLMs, Diffusion Models). Qualified students will be joining this team and under the direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself. For more information on our culture and management style, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing). If you are interested, please send an application to [my email](ruocwang@g.ucla.edu) and attach your resume, publication record, and 1-2 paragraph justifying your area of interests in AIGC (digging into technical details are more than welcome!).
 
 
 ## News
@@ -51,16 +51,21 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 - **[Jan. 2021]** Two papers accepted at ICLR 2021.
 
 
-## Industrial Experiences (Selected)
+## Experiences (Selected)
 
-- **Google Research** (2023 - Present)<br/>
+- **Google Research** - *Student Researcher* (Oct 2023 - Present)<br/>
 Large Language Models<br/>
-Hosts: [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), and [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)
-- **Google Research** (2022 - 2023)<br/>
+Hosts: [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)
+- **AIGC Research Alliance** - *Team Principal* (Aug 2023 - Present)<br/>
+Areas: Key topics in Text-based Generative Models (LLM and Diffusion Models)<br/>
+Current Advisors: [Tianyi Zhou](https://tianyizhou.github.io/), [Minhao Cheng](https://cmhcbb.github.io/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en)<br/>
+Current Members: Sen Li (PhD@HKUST), Yuanhao Ban (PhD@UCLA), Sohyun An (MS@KAIST), Xirui Li (MS@UCLA)
+- **Google Research** - *Student Researcher* (May 2022 - 2023)<br/>
 Text-to-Image Diffusion Models, Efficient Transformers<br/>
-Hosts: [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en), [Ting Liu](https://research.google/people/105496/), and [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)
+Hosts: [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en), [Ting Liu](https://research.google/people/105496/)
 - **Microsoft Research Asia** (2019)<br/>
-Neural Architecture Search
+Neural Architecture Search<br/>
+Host: [Kai Chen](https://scholar.google.com/citations?hl=en&user=kPDp3cUAAAAJ&view_op=list_works&sortby=pubdate)
   
 
 {% include_relative _includes/publications.md %}
