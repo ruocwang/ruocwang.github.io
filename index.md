@@ -56,13 +56,16 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 - **Google Research** - *Student Researcher* (Oct 2023 - Present)<br/>
 Large Language Models<br/>
 Hosts: [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)
+
 - **AIGC Research Alliance** - *Team Principal* (Aug 2023 - Present)<br/>
 Areas: Key topics in Text-based Generative Models (LLM and Diffusion Models)<br/>
 Current Advisors: [Tianyi Zhou](https://tianyizhou.github.io/), [Minhao Cheng](https://cmhcbb.github.io/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en)<br/>
 Current Members: Sen Li (PhD@HKUST), Yuanhao Ban (PhD@UCLA), Sohyun An (MS@KAIST), Xirui Li (MS@UCLA)
+
 - **Google Research** - *Student Researcher* (May 2022 - 2023)<br/>
 Text-to-Image Diffusion Models, Efficient Transformers<br/>
 Hosts: [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en), [Ting Liu](https://research.google/people/105496/)
+
 - **Microsoft Research Asia** (2019)<br/>
 Neural Architecture Search<br/>
 Host: [Kai Chen](https://scholar.google.com/citations?hl=en&user=kPDp3cUAAAAJ&view_op=list_works&sortby=pubdate)
