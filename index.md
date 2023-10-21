@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. student at UCLA advised by Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a continuing Student Researcher at Google working on text-based generative models (previously [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en) and [Ting Liu](https://research.google/people/105496/).
+I am a 4th-year Ph.D. student at UCLA with Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a Student Researcher at Google Research (Ads ML) working on LLMs hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en) (previously [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en) and [Ting Liu](https://research.google/people/105496/).
 My research area is Efficient and Automated Methods for Machine Learning (AIGC, AutoML, Dataset).
 I was the recepient of the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR 2021.
-Besides research, I am also open to venture capital and entrepreneurial opportunities.
+Besides research, I am also interested in venture capital and entrepreneurial opportunities.
 
 I obtained my B.S. degree (dual) in Computer Science and Statistics from the University of Michigan, with the highest distinction.
 During this period, I interned at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Sensetime](https://www.sensetime.com/en) on machine learning and computer vision, as well as helped a startup to develop its prototype robots.
@@ -32,12 +32,12 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 ## Outreach
 
 - **VC/Startups** I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
-- [[**Prospective Students**]()] I am currently forming a Research Alliance to pursue topics in large-scale text-based generative models (LLMs, Diffusion Models). As part of this endeavor, I will no longer advise interns on my own; Instead, qualified students will be joining this team and under the direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself. For more information on the management, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing). If you are interested, please send an application to [my email](ruocwang@g.ucla.edu) and include your resume, publication record (working-in progress papers are fine), and 1-2 paragraph explaining your area of interests in AIGC.
+- [[**Prospective Students**]()] I am currently leading a Research Alliance to pursue targeted topics in large-scale text-based generative models (LLMs, Diffusion Models). Qualified students will be joining this team and under the direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself. For more information on our culture and management style, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing). If you are interested, please send an application to [my email](ruocwang@g.ucla.edu) and attach your resume, publication record, and 1-2 paragraph justifying your area of interests in AIGC (digging into technical details are more than welcome!).
 
 
 ## News
 
-- **[Oct. 2023]** I will return to Google Research, focusing on advancing the state of Large Language Models.
+- **[Oct. 2023]** I will return to Google Research (Ads ML) hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), focusing on advancing the state of Large Language Models.
 - **[Aug. 2023]** I formed a Research Alliance to pursue topics in AIGC (see the Outreach section for more info).
 - **[Apr. 2023]** [TESLA](https://arxiv.org/abs/2211.10586) is accepted at ICML 2023 - one of the first to scale-up Dataset Distillation to ImageNet-1K.
 - **[Mar. 2023]** [FedDM](https://arxiv.org/abs/2207.09653) is accepted at CVPR 2023.
@@ -54,9 +54,11 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 ## Industrial Experiences (Selected)
 
 - **Google Research** (2023 - Present)<br/>
-Large Language Models
+Large Language Models<br/>
+Hosts: [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), and [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)
 - **Google Research** (2022 - 2023)<br/>
-Text-to-Image Diffusion Models, Eficient Transformers
+Text-to-Image Diffusion Models, Efficient Transformers<br/>
+Hosts: [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en), [Ting Liu](https://research.google/people/105496/), and [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)
 - **Microsoft Research Asia** (2019)<br/>
 Neural Architecture Search
   
