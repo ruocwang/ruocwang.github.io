@@ -29,8 +29,8 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 
 ## Outreach
 
-- [**VC/Startups**] I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
-- **Prospective Students** I formed and am leading a Research Alliance based off several labs to pursue targeted topics in large-scale text-based generative models (LLMs, Diffusion Models). Qualified students will work under direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself, receiving a high degree of freedom and level of attention. For more information on our culture, style and how to apply, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
+- **[VC/Startups]** I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
+- **[Hiring]** I formed and am leading a Research Colalboration based off several labs to pursue targeted topics in large-scale text-based generative models (LLMs, Diffusion Models). Qualified students will work under direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself, receiving a high degree of freedom and level of attention. For more information on our culture, style and how to apply, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
 
 
 ## News
@@ -55,10 +55,10 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 Large Language Models<br/>
 Hosts: [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)
 
-- **AIGC Research Alliance** - *Team Principal* (Aug 2023 - Present)<br/>
+- **ARC - AIGC Research Collaboration** - *Team Principal* (Aug 2023 - Present)<br/>
 Areas: Key topics in Text-based Generative Models (LLM and Diffusion Models)<br/>
 Current Advisors: [Tianyi Zhou](https://tianyizhou.github.io/), [Minhao Cheng](https://cmhcbb.github.io/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en)<br/>
-Current Members: [Sohyun An](https://cownowan.github.io/) (MS@KAIST -> PhD@UCLA), Yuanhao Ban (PhD@UCLA), Sen Li (PhD@HKUST), Xirui Li (MS@UCLA)
+Current Members: [Sohyun An](https://cownowan.github.io/) (MS@KAIST -> PhD@UCLA), [Yuanhao Ban](https://drive.google.com/file/d/1TUVEbO3dL-_MNUhk-Ef0CB1lgKyoOFXa/view?usp=drive_link) (PhD@UCLA), Sen Li (MPhil@HKUST), Xirui Li (MS@UCLA)
 
 - **Google Research** - *Student Researcher* (May 2022 - 2023)<br/>
 Text-to-Image Diffusion Models, Efficient Transformers<br/>
