@@ -36,7 +36,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 
 ## Highlighted News
 
-- **[Dec. 2023]** Together with multiple reowned researchers across academia and industry, I will be co-hosting the 1st workshop on Dataset Distillation at CPVR 2024. Please stay tuned for more details on submissions, speakers and events!
+- **[Dec. 2023]** Together with multiple reowned researchers across academia and industry, I will be co-hosting the [1st workshop on Dataset Distillation]() [@CVPR 2024](https://cvpr.thecvf.com/). Please stay tuned for more details on submissions, speakers and events!
 - **[Oct. 2023]** I will return to Google Research (Ads ML) for another internship hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), and [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), focusing on advancing the state of Large Language Models.
 - **[Aug. 2023]** I formed a Research Alliance to pursue topics in AIGC (see the Outreach section for more info).
 - **[Apr. 2023]** [TESLA](https://arxiv.org/abs/2211.10586) is accepted at ICML 2023 - one of the first to scale-up Dataset Distillation to ImageNet-1K.
