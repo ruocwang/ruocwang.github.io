@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I am a 4th-year Ph.D. student at UCLA with Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a Student Researcher at Google Research (Ads ML) working on LLMs hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en) (previously [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en) and [Ting Liu](https://research.google/people/105496/).
+
 My research area is Efficient and Automated Methods for Machine Learning (AIGC, AutoML, Dataset).
 I was the recepient of the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR 2021.
 Besides research, I am also interested in venture capital and entrepreneurial opportunities.
@@ -33,20 +34,16 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 - **[Hiring]** I formed and am leading a Research Colalboration based off several labs to pursue targeted topics in large-scale text-based generative models (LLMs, Diffusion Models). Qualified students will work under direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself, receiving a high degree of freedom and level of attention. For more information on our culture, style and how to apply, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
 
 
-## News
+## Highlighted News
 
+- **[Dec. 2023]** Together with multiple reowned researchers across academia and industry, I will be co-hosting the 1st workshop on Dataset Distillation at CPVR 2024. Please stay tuned for more details on submissions, speakers and events!
 - **[Oct. 2023]** I will return to Google Research (Ads ML) for another internship hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), focusing on advancing the state of Large Language Models.
 - **[Aug. 2023]** I formed a Research Alliance to pursue topics in AIGC (see the Outreach section for more info).
 - **[Apr. 2023]** [TESLA](https://arxiv.org/abs/2211.10586) is accepted at ICML 2023 - one of the first to scale-up Dataset Distillation to ImageNet-1K.
-- **[Mar. 2023]** [FedDM](https://arxiv.org/abs/2207.09653) is accepted at CVPR 2023.
-- **[Sep. 2022]** Two papers accepted at NeurIPS 2022.
 - **[Jul. 2022]** We released [DC-BENCH](https://justincui03.github.io/dcbench/) - the first benchmark for evaluating Dataset Compression methods.
 - **[May. 2022]** I started my internship at Google Research, hosted by [Boqing Gong](http://boqinggong.info/) and [Ting Liu](http://www.tliu.org/).
 - [May 2022] I received Outstanding Graduate Student Award for the Master's degree at UCLA.
-- **[Jan. 2022]** Two papers accepted at ICLR 2022.
-- **[Jul. 2021]** One paper accepted at ICCV 2021.
 - **[Apr. 2021]** Our paper *"Rethinking Architecture Selection in Differentiable NAS"* won the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR 2021.
-- **[Jan. 2021]** Two papers accepted at ICLR 2021.
 
 
 ## Experiences (Selected)
