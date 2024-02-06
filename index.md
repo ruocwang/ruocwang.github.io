@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 4th-year Ph.D. student at UCLA with Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a Student Researcher at Google Research (Ads ML) working on LLMs hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en) (previously [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en) and [Ting Liu](https://research.google/people/105496/).
+I am a 4th-year Ph.D. student at UCLA with Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a Student Researcher at Google Research (Ads ML) working on LLMs hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en) and [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en).
 
 My research area is Efficient and Automated Methods for Machine Learning (AIGC, AutoML, Dataset).
 I was the recepient of the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR 2021.
@@ -41,7 +41,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 - **[Aug. 2023]** I formed a Research Alliance to pursue topics in AIGC (see the Outreach section for more info).
 - **[Apr. 2023]** [TESLA](https://arxiv.org/abs/2211.10586) is accepted at ICML 2023 - one of the first to scale-up Dataset Distillation to ImageNet-1K.
 - **[Jul. 2022]** We released [DC-BENCH](https://justincui03.github.io/dcbench/) - the first benchmark for evaluating Dataset Compression methods.
-- **[May. 2022]** I started my internship at Google Research, hosted by [Boqing Gong](http://boqinggong.info/) and [Ting Liu](http://www.tliu.org/).
+- **[May. 2022]** I started my internship at Google Research.
 - [May 2022] I received Outstanding Graduate Student Award for the Master's degree at UCLA.
 - **[Apr. 2021]** Our paper *"Rethinking Architecture Selection in Differentiable NAS"* won the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR 2021.
 
@@ -54,12 +54,11 @@ Hosts: [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAA
 
 - **ARC - AIGC Research Collaboration** - *Team Principal* (Aug 2023 - Present)<br/>
 Areas: Key topics in Text-based Generative Models (LLM and Diffusion Models)<br/>
-Current Advisors: [Tianyi Zhou](https://tianyizhou.github.io/), [Minhao Cheng](https://cmhcbb.github.io/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en)<br/>
+Current Advisors: [Tianyi Zhou](https://tianyizhou.github.io/), [Minhao Cheng](https://cmhcbb.github.io/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)<br/>
 Current Members: [Sohyun An](https://cownowan.github.io/) (MS@KAIST -> PhD@UCLA), [Yuanhao Ban](https://drive.google.com/file/d/1TUVEbO3dL-_MNUhk-Ef0CB1lgKyoOFXa/view?usp=drive_link) (PhD@UCLA), Sen Li (MPhil@HKUST), Xirui Li (MS@UCLA)
 
 - **Google Research** - *Student Researcher* (May 2022 - 2023)<br/>
 Text-to-Image Diffusion Models, Efficient Transformers<br/>
-Hosts: [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en), [Ting Liu](https://research.google/people/105496/)
 
 - **Microsoft Research Asia** (2019)<br/>
 Neural Architecture Search<br/>
