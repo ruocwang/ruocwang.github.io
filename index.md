@@ -4,9 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a 4th-year Ph.D. student at UCLA with Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a Student Researcher at Google Research (Ads ML) working on LLMs hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en) and [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en).
+I am a 4th-year Ph.D. student at UCLA with Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a Student Researcher at Google Research (Ads ML) working on advancing the state of LLMs, hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en) and [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en).
 
-My research area is Efficient and Automated Methods for Machine Learning (AIGC, AutoML, Dataset).
+I founded and am leading ARC - an AIGC Research Collaboration based off several labs to pursue targeted topics in Multimodal Language Agents.
+The goal is to leverage the power of LLMs to automatize and enhance content generation and task solving ability of foundation models.
+Our team involves ~10 determined researchers, including several Professors, PhDs and MS students.
+Prior to the era of LLM, I worked on AutoML and Dataset Compression.
 I was the recepient of the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR 2021.
 Besides research, I am also interested in venture capital and entrepreneurial opportunities.
 
@@ -20,8 +23,8 @@ Prior to that, I worked on quantitative investing at Shanghai Key Laboratory of 
 I study the problem of **AI for AI**.
 The goal is to leverage the power of AI agents to automatize the development of itself.
 For the past years, I have mainly focused on the following areas:
-- **Automated Methods for Language Agents (Current)** <br/>
-e.g. [[MoP]()] [[DPO-Diff]()]
+- **Multimodal Language Agents (Current)** <br/>
+e.g. [[MoP]()] [[DPO-Diff]()] [[Mulan]()]
 - **Dataset Distillation** <br/>
 e.g. [[TESLA](https://arxiv.org/abs/2211.10586)] [[DC-BENCH](https://dc-bench.github.io/)] [[FedDM](https://arxiv.org/abs/2207.09653)]
 - **AutoML (NAS, OS, HPO)** <br/>
@@ -31,7 +34,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 ## Outreach
 
 - **[VC/Startups]** I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
-- **[Hiring]** I formed and am leading a Research Colalboration based off several labs to pursue targeted topics in large-scale text-based generative models (LLMs, Diffusion Models). Qualified students will work under direct supervision of Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), Prof. [Tianyi Zhou](https://tianyizhou.github.io/), Prof. [Minhao Cheng](https://cmhcbb.github.io/) and myself, receiving a high degree of freedom and level of attention. For more information on our culture, style and how to apply, please refer to this temporary onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
+- **[Hiring]** I formed and am leading a Research Collaboration based off several labs to pursue targeted topics in large-scale text-based generative models (LLMs, MLLMs, Diffusion Models), involving ~10 researchers including Professors, PhD and MS students. For more information on our principles and style and how to apply, please refer to this onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
 
 
 ## Highlighted News
@@ -53,12 +56,13 @@ Large Language Models<br/>
 Hosts: [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)
 
 - **ARC - AIGC Research Collaboration** - *Team Principal* (Aug 2023 - Present)<br/>
-Areas: Key topics in Text-based Generative Models (LLM and Diffusion Models)<br/>
+Areas: Multimodal Language Agents<br/>
 Current Advisors: [Tianyi Zhou](https://tianyizhou.github.io/), [Minhao Cheng](https://cmhcbb.github.io/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)<br/>
-Current Members: [Sohyun An](https://cownowan.github.io/) (MS@KAIST -> PhD@UCLA), [Yuanhao Ban](https://drive.google.com/file/d/1TUVEbO3dL-_MNUhk-Ef0CB1lgKyoOFXa/view?usp=drive_link) (PhD@UCLA), Sen Li (MPhil@HKUST), Xirui Li (MS@UCLA)
+Student Researchers: [Sohyun An](https://cownowan.github.io/) (MS@KAIST -> PhD@UCLA), [Yuanhao Ban](https://drive.google.com/file/d/1TUVEbO3dL-_MNUhk-Ef0CB1lgKyoOFXa/view?usp=drive_link) (PhD@UCLA), Sen Li (MPhil@HKUST), Xirui Li (MS@UCLA)
 
 - **Google Research** - *Student Researcher* (May 2022 - 2023)<br/>
 Text-to-Image Diffusion Models, Efficient Transformers<br/>
+Host: Ting Liu and Boqing Gong
 
 - **Microsoft Research Asia** (2019)<br/>
 Neural Architecture Search<br/>
@@ -68,3 +72,8 @@ Host: [Kai Chen](https://scholar.google.com/citations?hl=en&user=kPDp3cUAAAAJ&vi
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
+
+
+## Something personal
+In my leisure time, I enjoy reading books and learning about swordsmanship.
+I am student of Tenshin Shōden Katori Shintō-ryū (天真正傳香取神道流), with a lineage from the main branch founded by Otake Shihan (大竹利典師範).
