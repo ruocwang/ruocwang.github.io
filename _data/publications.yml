@@ -9,17 +9,17 @@ main:
   #   image: ./assets/img/teaser_example_2.png
   #   notes: Early Accept
 
-  - title: ""
-    authors: Xirui Li, <u><strong>Ruochen Wang</strong></u>, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh
+  - title: "MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion"
+    authors: Sen Li, <u><strong>Ruochen Wang</strong></u>, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou
     conference_short: Arxiv
-    conference: <strong>(Arxiv)</strong>, 2023.
+    conference: <strong>(Arxiv)</strong>, 2024.
     notes: ARC group present, Under Review
     image: assets/img/HarryAvatar.webp
 
   - title: "DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers"
     authors: Xirui Li, <u><strong>Ruochen Wang</strong></u>, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh
     conference_short: Arxiv
-    conference: <strong>(Arxiv)</strong>, 2023.
+    conference: <strong>(Arxiv)</strong>, 2024.
     notes: ARC group present, Under Review
     image: assets/img/HarryAvatar.webp
 
