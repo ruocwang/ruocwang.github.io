@@ -9,14 +9,28 @@ main:
   #   image: ./assets/img/teaser_example_2.png
   #   notes: Early Accept
 
-  - title: "Paper on Multi-Agent Prompting for LLM"
+  - title: ""
+    authors: Xirui Li, <u><strong>Ruochen Wang</strong></u>, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh
+    conference_short: Arxiv
+    conference: <strong>(Arxiv)</strong>, 2023.
+    notes: ARC group present, Under Review
+    image: assets/img/HarryAvatar.webp
+
+  - title: "DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers"
+    authors: Xirui Li, <u><strong>Ruochen Wang</strong></u>, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh
+    conference_short: Arxiv
+    conference: <strong>(Arxiv)</strong>, 2023.
+    notes: ARC group present, Under Review
+    image: assets/img/HarryAvatar.webp
+
+  - title: "One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts"
     authors: <u><strong>Ruochen Wang*</strong></u>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2023.
-    notes: Under Review
+    notes: ARC group present, Under Review
     image: assets/img/HarryAvatar.webp
 
-  - title: "Paper on improving/attacking Text-to-Image Diffusion Models"
+  - title: "dPOD: On Discrete Prompt Optimization for Diffusion Models"
     authors: <u><strong>Ruochen Wang</strong></u>, Ting Liu, Cho-jui Hsieh, Boqing Gong
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2023.

@@ -4,11 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a 4th-year Ph.D. student at UCLA with Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/) and a Student Researcher at Google Research (Ads ML) working on advancing the state of LLMs, hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en) and [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en).
+I am a 4th-year Ph.D. student at UCLA with Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), and am the founder and current principal of ARC Team - an AIGC Research Collaboration based off 3 labs to pursue targeted topics in Multimodal Language Agents, with the goal of translating them into commercial applications.
+I am also serving as a long-term Student Researcher at Google Research (Ads ML) working on advancing the state of LLMs, hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en) and [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en).
 
-I founded and am leading ARC - an AIGC Research Collaboration based off several labs to pursue targeted topics in Multimodal Language Agents.
-The goal is to leverage the power of LLMs to automatize and enhance content generation and task solving ability of foundation models.
-Our team involves ~10 determined researchers, including several Professors, PhDs and MS students.
 Prior to the era of LLM, I worked on AutoML and Dataset Compression.
 I was the recepient of the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR 2021.
 Besides research, I am also interested in venture capital and entrepreneurial opportunities.
@@ -33,12 +31,12 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 
 ## Outreach
 
+- **[ARC Team]** I founded and am leading ARC group: AIGC Research Collaboration based off several labs to pursue critical topics in large-scale foundation models (LLMs, MLLMs, Diffusion Models, etc.). The team aims at pushing the boundary of SOTA academic research, and eventually translating the results into commercial applications. **The team has expanded to 9 researchers including multiple Professors and Graduate Students. Within 6 months, we achieved a project success rate of 100%, with 3 papers under review and 2 projects in wrapup phase**. For more information on our principles and style and how to apply, please refer to this onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
 - **[VC/Startups]** I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
-- **[Hiring]** I formed and am leading a Research Collaboration based off several labs to pursue targeted topics in large-scale text-based generative models (LLMs, MLLMs, Diffusion Models), involving ~10 researchers including Professors, PhD and MS students. For more information on our principles and style and how to apply, please refer to this onboarding [slides](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
 
 
 ## Highlighted News
-
+- **[Feb. 2023]** The ARC team I founded have expanded to 9 researchers & advisors across 3 academic labs. Together we achieved a project success rate of 100%, with 3 papers under review (all achieved SOTA results in comparable settings) and 2 projects in wrapup phase. ARC team will keep pushing the boundaries of cutting-edge academic exploration and translating the results into practical commercial applications.
 - **[Dec. 2023]** Together with multiple reowned researchers across academia and industry, I will be co-hosting the [1st workshop on Dataset Distillation]() [@CVPR 2024](https://cvpr.thecvf.com/). Please stay tuned for more details on submissions, speakers and events!
 - **[Oct. 2023]** I will return to Google Research (Ads ML) for another internship hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), and [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), focusing on advancing the state of Large Language Models.
 - **[Aug. 2023]** I formed a Research Alliance to pursue topics in AIGC (see the Outreach section for more info).
