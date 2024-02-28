@@ -73,4 +73,4 @@ Host: [Kai Chen](https://scholar.google.com/citations?hl=en&user=kPDp3cUAAAAJ&vi
 
 ## Something personal
 In my leisure time, I enjoy reading books and learning about swordsmanship.
-I am student of Tenshin Shōden Katori Shintō-ryū (天真正傳香取神道流), with a lineage from the main branch founded by Otake Shihan (大竹利典師範).
+I am student of Tenshin Shōden Katori Shintō-ryū (天真正伝香取神道流), with a lineage from the main branch founded by Otake Shihan (大竹利典師範).
