@@ -30,7 +30,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 
 
 ## Outreach
-- **[ARC Group]** The ARC group - AIGC Research Collaboration - is a collective of multiple laboratories dedicated to exploring key areas in foundation models (LLMs, MLLMs, Diffusion Models, etc.). The team aims at pushing the boundary of SOTA academic research, and eventually commercialize the results. **Since established in Aug 2023, we have expanded to 9 researchers. We have achieved a project success rate of 100%, with 3 papers under review and 2 projects in wrapup stage.**. For more information on our culture and how to apply, please refer to [here](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
+- **[ARC Group]** ARC (AIGC Research Collaboration) is a collective of multiple laboratories dedicated to exploring key areas in multimodal foundational agents (LLMs, MLLMs, Diffusion Models, etc.). The team aims at pushing the boundary of SOTA academic research, and eventually commercialize the results. **Since established in Aug 2023, we have expanded to 9 researchers. We have achieved a project success rate of 100%, with 3 papers under review and 2 projects in wrapup stage.** For more information on our principles and how to apply, please refer to [here](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
 
 - **[VC/Startups]** I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
 
@@ -72,5 +72,5 @@ Host: [Kai Chen](https://scholar.google.com/citations?hl=en&user=kPDp3cUAAAAJ&vi
 
 
 ## Something personal
-In my leisure time, I enjoy reading books and learning about swordsmanship.
-I am student of Tenshin Shōden Katori Shintō-ryū (天真正伝香取神道流), with a lineage from the main branch founded by Otake Shihan (大竹利典師範).
+I enjoy reading books on a wide range of topics and learning about swordsmanship.
+I am studying Tenshin Shōden Katori Shintō-ryū (天真正伝香取神道流) under the instruction of Masashi Sensei, with a lineage directly from Otake Shihan (大竹利典師範).
