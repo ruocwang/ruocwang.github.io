@@ -8,6 +8,12 @@ main:
   #   bibtex: https://bib.yliu.me/MICCAI23.txt
   #   image: ./assets/img/teaser_example_2.png
   #   notes: Early Accept
+  - title: "Understanding the Impact of Negative Prompts: When and How Do They Take Effect?"
+    authors: Yuanhao Ban, <strong>Ruochen Wang</strong>, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh
+    conference_short: Arxiv
+    conference: <strong>(Arxiv)</strong>, 2024.
+    notes: ARC group present, Under Review
+    image: assets/img/HarryAvatar.webp
 
   - title: "MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion"
     authors: Sen Li, <strong>Ruochen Wang</strong>, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou

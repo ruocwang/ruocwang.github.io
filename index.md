@@ -30,7 +30,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 
 
 ## Outreach
-- **[ARC Group]** ARC (AIGC Research Collaboration) is a collective of multiple laboratories dedicated to exploring key areas in multimodal foundational agents (LLMs, MLLMs, Diffusion Models, etc.). The team aims at pushing the boundary of SOTA academic research, and eventually commercialize the results. **Since established in Aug 2023, we have expanded to 9 researchers. We have achieved a project success rate of 100%, with 3 papers under review and 2 projects in wrapup stage.** For more information on our principles and how to apply, please refer to [here](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
+- **[ARC Group]** ARC (AIGC Research Collaboration) is a collective of multiple laboratories dedicated to exploring key areas in multimodal foundational agents (LLMs, MLLMs, Diffusion Models, etc.). The team aims at pushing the boundary of SOTA academic research, and eventually commercialize the results. **Since established in Aug 2023, we have expanded to 15 researchers.** For more information on our principles and how to apply, please refer to [here](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
 
 - **[VC/Startups]** I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
 
@@ -48,13 +48,13 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 
 ## Experiences (Selected)
 
-- **ARC - AIGC Research Collaboration** - *Founder & Team Principal* (Aug 2023 - Present)<br/>
-Areas: Multimodal Language Agents<br/>
-Current Advisors: [Tianyi Zhou](https://tianyizhou.github.io/), [Minhao Cheng](https://cmhcbb.github.io/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)<br/>
-Student Researchers: [Yuanhao Ban](https://drive.google.com/file/d/1TUVEbO3dL-_MNUhk-Ef0CB1lgKyoOFXa/view?usp=drive_link), [Xirui Li](), [Sohyun An](https://cownowan.github.io/), [Sen Li]()
+- **ARC - AIGC Research Collaboration** - *Founder & Principal* (Aug 2023 - Present)<br/>
+Areas: Multimodal Multiagent Foundational Systems<br/>
+Advisory Board: [Tianyi Zhou](https://tianyizhou.github.io/), [Minhao Cheng](https://cmhcbb.github.io/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)<br/>
+Student Researchers: [Yuanhao Ban](https://drive.google.com/file/d/1TUVEbO3dL-_MNUhk-Ef0CB1lgKyoOFXa/view?usp=drive_link), [Xirui Li](), [Sohyun An](https://cownowan.github.io/), [Sen Li](), [Hengguang Zhou](), [Licheng Lan](), [Andrew Bai](), [Xiangwen Wang]()
 
-- **Google Research (Ads ML)** - *Student Researcher* (Oct 2023 - Present)<br/>
-Large Language Models<br/>
+- **Google Research @AdsML** - *Student Researcher* (Oct 2023 - Present)<br/>
+Multimodal Large Language Models<br/>
 Hosts: [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)
 
 - **Google Research** - *Student Researcher* (May 2022 - 2023)<br/>
@@ -73,4 +73,4 @@ Host: [Kai Chen](https://scholar.google.com/citations?hl=en&user=kPDp3cUAAAAJ&vi
 
 ## Something personal
 I enjoy reading books on a wide range of topics and learning about swordsmanship.
-I am studying Tenshin Shōden Katori Shintō-ryū (天真正伝香取神道流) under the instruction of Masashi Sensei, with a lineage directly from Otake Shihan (大竹利典師範).
+I am currently practicing Katori Shintō-Ryū (天真正伝香取神道流) under the instruction of Masashi Sensei, with a lineage directly from Otake Shihan (大竹利典師範).
