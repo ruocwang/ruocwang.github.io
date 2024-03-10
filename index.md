@@ -51,7 +51,7 @@ e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/a
 - **ARC - AIGC Research Collaboration** - *Founder & Principal* (Aug 2023 - Present)<br/>
 Areas: Multimodal Multiagent Foundational Systems<br/>
 Advisory Board: [Tianyi Zhou](https://tianyizhou.github.io/), [Minhao Cheng](https://cmhcbb.github.io/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)<br/>
-Student Researchers: [Yuanhao Ban](https://drive.google.com/file/d/1TUVEbO3dL-_MNUhk-Ef0CB1lgKyoOFXa/view?usp=drive_link), [Xirui Li](), [Sohyun An](https://cownowan.github.io/), [Sen Li](), [Hengguang Zhou](), [Licheng Lan](), [Andrew Bai](), [Xiangwen Wang]()
+Student Researchers: [Yuanhao Ban](), [Xirui Li](), [Sohyun An](), [Sen Li](), [Hengguang Zhou](), [Licheng Lan](), [Andrew Bai](), [Xiangwen Wang]()
 
 - **Google Research @AdsML** - *Student Researcher* (Oct 2023 - Present)<br/>
 Multimodal Large Language Models<br/>
