@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-
+**(This site will be deprecated soon)**<br/>
 I am a 4th-year Ph.D. student at UCLA with Prof. [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), and am the founder and current principal of ARC Group - an AIGC Research Collaboration aims at exploring core technologies in large-scale foundation models and eventually productizing the results.
 I am also serving as a long-term Student Researcher at Google Research (Ads ML) working on advancing the state of LLMs, hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en) and [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en).
 
@@ -17,16 +17,10 @@ Prior to that, I worked on quantitative investing at Shanghai Key Laboratory of 
 
 
 ## Research Overview
+My research aims to enable self-improving AI, i.e., to leverage the power of AI Agents to automatize the development & deployment of themselves. To achieve this goal, I founded AIGC Research Collaboration (ARC), a multi-lab research team focused on developing highly automated and trustworthy Multimodal Language Agents.
+- LLM-era: core technologies in Multimodal Language Agents, including MLLM-Diffusion Synergy, Prompt Optimization, Reasoning and Safety of Multimodal Large Language Models (MLLMs).
+- Pre-LLM-era: Efficient ML pipelines, including AutoML and Dataset Compression
 
-I study the problem of **AI for AI**.
-The goal is to leverage the power of AI agents to automatize the development of itself.
-For the past years, I have mainly focused on the following areas:
-- **Multimodal Language Agents (Current)** <br/>
-e.g. [[MoP]()] [[DPO-Diff]()] [[Mulan]()]
-- **Dataset Distillation** <br/>
-e.g. [[TESLA](https://arxiv.org/abs/2211.10586)] [[DC-BENCH](https://dc-bench.github.io/)] [[FedDM](https://arxiv.org/abs/2207.09653)]
-- **AutoML (NAS, OS, HPO)** <br/>
-e.g. [[DARTS-PT](https://arxiv.org/abs/2108.04392)] [[DrNAS](https://arxiv.org/abs/2006.10355)] [[GM-NAS](https://arxiv.org/abs/2203.15207)] [[ENOS](https://arxiv.org/abs/2209.13575)]
 
 
 ## Outreach
@@ -72,5 +66,6 @@ Host: [Kai Chen](https://scholar.google.com/citations?hl=en&user=kPDp3cUAAAAJ&vi
 
 
 ## Something personal
-I enjoy reading books on a wide range of topics and learning about swordsmanship.
-I am currently practicing Katori Shintō-Ryū (天真正伝香取神道流) under the instruction of Masashi Sensei, with a lineage directly from Otake Shihan (大竹利典師範).
+I enjoy learning and acquiring new skills in general, so I have to be selective with my hobbies to stay focused on the main quest. Currently, I'm sticking with reading across a wide range of topics and practicing swordsmanship.
+- With books, I enjoy a diverse mix: history, philosophy, science, strategy, business, biographies. And I'm definitely pro-ebook, as it is impossible to carry paper books around.
+- For swordsmanship, I'm currently studying Katori Shintō-Ryū (天真正伝香取神道流) under Masashi Sensei, with a lineage tracing directly back to Otake Shihan (大竹利典師範).
