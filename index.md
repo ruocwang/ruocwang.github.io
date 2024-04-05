@@ -67,5 +67,5 @@ Host: [Kai Chen](https://scholar.google.com/citations?hl=en&user=kPDp3cUAAAAJ&vi
 
 ## Something personal
 I enjoy learning and acquiring new skills in general, so I have to be selective with my hobbies to stay focused on the main quest. Currently, I'm sticking with reading across a wide range of topics and practicing swordsmanship.
-- With books, I enjoy a diverse mix: history, philosophy, science, strategy, business, biographies. And I'm definitely pro-ebook, as it is impossible to carry paper books around.
+- With books, I enjoy a diverse mix: history, philosophy, science, strategy, business, biographies. And I'm pro-ebook because it is impossible to carry paper books around.
 - For swordsmanship, I'm currently studying Katori Shintō-Ryū (天真正伝香取神道流) under Masashi Sensei, with a lineage tracing directly back to Otake Shihan (大竹利典師範).
