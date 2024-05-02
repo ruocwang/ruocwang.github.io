@@ -22,9 +22,8 @@ My research aims to enable self-improving AI, i.e., to leverage the power of AI 
 - Pre-LLM-era: Efficient ML pipelines, including AutoML and Dataset Compression
 
 
-
 ## Outreach
-- **[ARC Group]** ARC (AIGC Research Collaboration) is a collective of multiple laboratories dedicated to exploring key areas in multimodal foundational agents (LLMs, MLLMs, Diffusion Models, etc.). The team aims at pushing the boundary of SOTA academic research, and eventually commercialize the results. **Since established in Aug 2023, we have expanded to 15 researchers.** For more information on our principles, please refer to [here](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
+- **[ARC Group]** ARC (AIGC Research Collaboration) is a collective of multiple laboratories dedicated to exploring key areas in multimodal foundational agents (LLMs, MLLMs, Diffusion Models, etc.). We are a compact but hardcore team aims at pushing the boundary of SOTA academic research, and eventually commercialize the results. For more information on our principles, please refer to [here](https://docs.google.com/presentation/d/1PtRwK6KuqNhExz_ouiu1UDva5Fw6R7PuvrxsVCzSA9U/edit?usp=sharing).
 
 - **[VC/Startups]** I've been interviewing for VC positions. If you are in VC/Startup business and for any reason is looking for people with domain knowledge in A.I., I'd be delighted to have a chat with you.
 
@@ -53,7 +52,7 @@ Hosts: [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAA
 
 - **Google Research** - *Student Researcher* (May 2022 - 2023)<br/>
 Text-to-Image Diffusion Models, Efficient Transformers<br/>
-Host: Ting Liu and Boqing Gong
+Host: [Ting Liu](https://scholar.google.com/citations?user=4wSfAIQAAAAJ&hl=en) & [Boqing Gong](http://boqinggong.info/)
 
 - **Microsoft Research Asia** (2019)<br/>
 Neural Architecture Search<br/>
