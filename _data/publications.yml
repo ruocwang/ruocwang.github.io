@@ -31,28 +31,27 @@ main:
 
   - title: "One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts"
     authors: <u><strong>Ruochen Wang*</strong></u>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
-    conference_short: Arxiv
-    conference: <strong>(Arxiv)</strong>, 2023.
-    notes: ARC group present, Under Review
+    conference_short: ICML
+    conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
+    notes: ARC group present
     image: assets/img/HarryAvatar.webp
 
   - title: "dPOD: On Discrete Prompt Optimization for Diffusion Models"
     authors: <u><strong>Ruochen Wang</strong></u>, Ting Liu, Cho-jui Hsieh, Boqing Gong
-    conference_short: Arxiv
-    conference: <strong>(Arxiv)</strong>, 2023.
-    notes: Under Review, work done at Google
+    conference_short: ICML
+    conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
+    notes: Work done at Google
     image: assets/img/MoonmoonAvatar.webp
 
-  - title: "Mitigating Bias in Dataset Distillation"
+  - title: "Ameliorate Spurious Correlations in Dataset Condensation"
     authors: Justin Cui, <strong>Ruochen Wang</strong>, Yuanhao Xiong, Cho-jui Hsieh
-    conference_short: Arxiv
-    conference: <strong>(Arxiv)</strong>, 2023.
-    notes: Under Review
+    conference_short: ICML
+    conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     image: assets/img/CocoAvatar.webp
 
   - title: "Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory"
     authors: Justin Cui, <strong>Ruochen Wang</strong>, Si Si, Cho-jui Hsieh
-    conference_short: ICML
+    conference_short: ICML 2023
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     pdf: https://arxiv.org/abs/2211.10586
     image: assets/img/NemoAvatar.webp

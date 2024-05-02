@@ -30,13 +30,12 @@ My research aims to enable self-improving AI, i.e., to leverage the power of AI 
 
 
 ## Highlighted News
+- **[May. 2024]** Three papers accepted at ICML 2024.
 - **[Mar. 2024]** ARC concluded Exploratory Phase with 5 papers. Entering Phase 2, we are doubling down on the winning technologies.
 - **[Dec. 2023]** Together with multiple reowned researchers across academia and industry, we are organizing the [1st workshop on Dataset Distillation]() [@CVPR 2024](https://cvpr.thecvf.com/) to explore new frontiers in data-efficient ML. Please stay tuned for more details on submissions, speakers and events!
-- **[Oct. 2023]** I will return to Google Research (Ads ML) for another internship hosted by Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), and [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), focusing on advancing the state of Large Language Models.
 - **[Aug. 2023]** I formed a Research Alliance to pursue topics in AIGC (see the Outreach section for more info).
 - **[Apr. 2023]** [TESLA](https://arxiv.org/abs/2211.10586) is accepted at ICML 2023 - one of the first to scale-up Dataset Distillation to ImageNet-1K.
 - **[Jul. 2022]** We released [DC-BENCH](https://justincui03.github.io/dcbench/) - the first benchmark for evaluating Dataset Compression methods.
-- **[May. 2022]** I started my internship at Google Research.
 - [May 2022] I received Outstanding Graduate Student Award for the Master's degree at UCLA.
 - **[Apr. 2021]** Our paper *"Rethinking Architecture Selection in Differentiable NAS"* won the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR 2021.
 
