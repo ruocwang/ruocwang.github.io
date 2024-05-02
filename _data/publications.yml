@@ -51,7 +51,7 @@ main:
 
   - title: "Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory"
     authors: Justin Cui, <strong>Ruochen Wang</strong>, Si Si, Cho-jui Hsieh
-    conference_short: ICML 2023
+    conference_short: ICML
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     pdf: https://arxiv.org/abs/2211.10586
     image: assets/img/NemoAvatar.webp
