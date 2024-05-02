@@ -41,7 +41,7 @@ main:
     conference_short: ICML
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     notes: Work done at Google
-    image: assets/img/MoonmoonAvatar.webp
+    image: assets/img/HarryAvatar.webp
 
   - title: "Ameliorate Spurious Correlations in Dataset Condensation"
     authors: Justin Cui, <strong>Ruochen Wang</strong>, Yuanhao Xiong, Cho-jui Hsieh
