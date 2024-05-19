@@ -67,4 +67,4 @@ Host: [Kai Chen](https://scholar.google.com/citations?hl=en&user=kPDp3cUAAAAJ&vi
 ## Something personal
 Currently, my interests are centered around a diverse reading habit and practicing swordsmanship:
 - I explore a broad array of topics including history, strategy, science, business, and biographies. Although I once delved deeply into philosophy and psychology, I found these subjects to be increasingly arbitrary and sometimes misleading so I no longer consume these topics.
-- For swordsmanship, I study Katori Shintō-Ryū (天真正伝香取神道流). under Masashi Sensei, which is the ealiest martial art systems in Japan that has been passed down unmodified by 23 Shihans（师范）through 600 years. I am instructed by Masashi ShihanDai, with a lineage tracing directly back to Otake Shihan (大竹利典師範).
+- For swordsmanship, I study Katori Shintō-Ryū (天真正伝香取神道流), which is the ealiest comprehensive martial art system in Japan that has been passed down unmodified by 23 Shihans（师范）since 600 year ago. I am fortunate to receive instructions from Kitano and Masashi sensei, the only two Japanese ShihanDai.

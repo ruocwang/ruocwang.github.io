@@ -34,7 +34,7 @@ main:
     conference_short: ICML
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     notes: ARC group present
-    image: assets/img/HarryAvatar.webp
+    image: assets/img/HarryAvatar.webpa
 
   - title: "dPOD: On Discrete Prompt Optimization for Diffusion Models"
     authors: <u><strong>Ruochen Wang</strong></u>, Ting Liu, Cho-jui Hsieh, Boqing Gong
