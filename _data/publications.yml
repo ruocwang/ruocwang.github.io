@@ -1,13 +1,5 @@
 main:
-  # - title: Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory
-  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  #   conference_short: MICCAI
-  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   code: https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/teaser_example_2.png
-  #   notes: Early Accept
+
   - title: "MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?"
     authors: Xirui Li, Hengguang Zhou*, <strong>Ruochen Wang</strong>, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsie
     conference_short: Arxiv
@@ -72,7 +64,7 @@ main:
     code: https://github.com/xirui-li/DrAttack
 
   - title: "One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts"
-    authors: <u><strong>Ruochen Wang*</strong></u>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
+    authors: <u><strong>Ruochen Wang*</strong>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
     conference_short: ICML
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     notes: TurningPoint AI
@@ -82,7 +74,7 @@ main:
     code: https://github.com/ruocwang/mixture-of-prompts
 
   - title: "On Discrete Prompt Optimization for Diffusion Models"
-    authors: <u><strong>Ruochen Wang</strong></u>, Ting Liu, Cho-jui Hsieh, Boqing Gong
+    authors: <u><strong>Ruochen Wang</strong>, Ting Liu, Cho-jui Hsieh, Boqing Gong
     conference_short: ICML
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     notes: Work done at Google
@@ -105,7 +97,7 @@ main:
     image: assets/img/NemoAvatar.webp
 
   - title: "FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning"
-    authors: Yuanhao Xiong*, <u><strong>Ruochen Wang*</strong></u>, Minhao Cheng, Felix Yu, Cho-Jui Hsieh (*Equal Contribution)
+    authors: Yuanhao Xiong*, <strong>Ruochen Wang*</strong>, Minhao Cheng, Felix Yu, Cho-Jui Hsieh (*Equal Contribution)
     conference_short: CVPR
     conference: The IEEE / CVF Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2023.
     pdf: https://arxiv.org/abs/2207.09653
@@ -121,7 +113,7 @@ main:
     image: assets/img/CarrotAvatar.webp
 
   - title: "Efficient Non-Parametric Optimizer Search for Diverse Tasks"
-    authors: <u><strong>Ruochen Wang</strong></u>, Yuanhao Xiong, Minghao Cheng, Cho-Jui Hsieh
+    authors: <strong>Ruochen Wang</strong>, Yuanhao Xiong, Minghao Cheng, Cho-Jui Hsieh
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2022.
     pdf: https://arxiv.org/abs/2209.13575
@@ -129,7 +121,7 @@ main:
     image: assets/img/TiagraAvatar.webp
 
   - title: "Generalizing Few-Shot NAS with Gradient Matching"
-    authors: Shoukang Hu*, <u><strong>Ruochen Wang*</strong></u>, Lanqing Hong, Zhenguo Li, Cho-Jui Hsieh, Jiashi Feng (*Equal Contribution)
+    authors: Shoukang Hu*, <u><strong>Ruochen Wang*</strong>, Lanqing Hong, Zhenguo Li, Cho-Jui Hsieh, Jiashi Feng (*Equal Contribution)
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.
     pdf: https://arxiv.org/abs/2203.15207
@@ -144,7 +136,7 @@ main:
     image: assets/img/BaconAvatar.webp
 
   - title: "RANK-NOSH: Efficient Predictor-Based NAS via Non-Uniform Successive Halving"
-    authors: <u><strong>Ruochen Wang</strong></u>, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh
+    authors: <u><strong>Ruochen Wang</strong>, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh
     conference_short: ICCV
     conference: The IEEE / CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.
     pdf: https://arxiv.org/abs/2108.08019
@@ -152,7 +144,7 @@ main:
     image: assets/img/BarbieAvatar.webp
 
   - title: "Rethinking Architecture Selection in Differentiable NAS"
-    authors: <u><strong>Ruochen Wang</strong></u>, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
+    authors: <u><strong>Ruochen Wang</strong>, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
     pdf: https://arxiv.org/abs/2203.15207
@@ -161,7 +153,7 @@ main:
     notes: Outstanding Paper Award (1/8)
 
   - title: "DrNAS: Dirichlet Neural Architecture Search"
-    authors: Xiangning Chen*, <u><strong>Ruochen Wang*</strong></u>, Minhao Cheng*, Xiaocheng Tang, Cho-Jui Hsieh (*Equal Contribution)
+    authors: Xiangning Chen*, <u><strong>Ruochen Wang*</strong>, Minhao Cheng*, Xiaocheng Tang, Cho-Jui Hsieh (*Equal Contribution)
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
     pdf: https://arxiv.org/abs/2203.15207
