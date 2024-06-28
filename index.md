@@ -3,15 +3,10 @@ layout: homepage
 ---
 
 ## About Me
-I am
-  - the founder and current principal of TurningPoint AI Research focus on multimodal agents (no we are not yet a startup).
-  - a final-year Ph.D. at UCLA with Prof. [Cho-Jui Hsieh](https://scholar.google.com/citations?user=Wy89g4IAAAAJ&hl=en).
-  - a Student Researcher at Google working with Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en), and [Ting Liu](https://scholar.google.com/citations?user=4wSfAIQAAAAJ&hl=en).
+I am the founder and current principal of TurningPoint AI Research focus on multimodal agents (no we are not yet a startup) and a final-year Ph.D. at UCLA with Prof. [Cho-Jui Hsieh](https://scholar.google.com/citations?user=Wy89g4IAAAAJ&hl=en). I am also a long-term Student Researcher at Google working with Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en), and [Ting Liu](https://scholar.google.com/citations?user=4wSfAIQAAAAJ&hl=en).
 
-I was
-  - the 1st-author recepient of the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR.
-  - a B.S. dual degree graduate in Computer Science and Statistics at the University of Michigan, with the highest distinction.
-  - a Finance major
+I was the 1st-author recepient of the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR.
+I received my B.S. in Computer Science and Statistics at the University of Michigan, with the highest distinction.
 
 I am interested in Venture Capitalism.
 
