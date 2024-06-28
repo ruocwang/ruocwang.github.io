@@ -22,7 +22,7 @@ main:
     authors: <strong>Ruochen Wang</strong>, Si Si, Felix Yu, Dorothea Wiesmann, Cho-Jui Hsieh, Inderjit Dhillon
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2024.
-    notes: Google Research, Under Review
+    notes: Work done at Google, Under Review
     image: assets/img/HarryAvatar.webp
     pdf: https://arxiv.org/abs/2406.17224
     code: https://github.com/ruocwang/llm-symbolic-program
@@ -34,6 +34,14 @@ main:
     notes: TurningPoint AI, Under Review
     image: assets/img/HarryAvatar.webp
     pdf: https://arxiv.org/abs/2406.01970
+  
+  - title: "Solving for X and Beyond: Can Large Language Models Solve Complex Math Problems with More-Than-Two Unknowns?"
+    authors: Kuei-Chun Kao, <strong>Ruochen Wang</strong>, Cho-Jui Hsieh
+    conference_short: Arxiv
+    conference: <strong>(Arxiv)</strong>, 2024.
+    notes: Under Review
+    image: assets/img/HarryAvatar.webp
+    page: https://kckao.github.io/Solving-for-X-and-Beyond/
 
   - title: "Understanding the Impact of Negative Prompts: When and How Do They Take Effect?"
     authors: Yuanhao Ban, <strong>Ruochen Wang</strong>, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh
@@ -73,7 +81,7 @@ main:
     pdf: https://arxiv.org/abs/
     code: https://github.com/ruocwang/mixture-of-prompts
 
-  - title: "dPOD: On Discrete Prompt Optimization for Diffusion Models"
+  - title: "On Discrete Prompt Optimization for Diffusion Models"
     authors: <u><strong>Ruochen Wang</strong></u>, Ting Liu, Cho-jui Hsieh, Boqing Gong
     conference_short: ICML
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
