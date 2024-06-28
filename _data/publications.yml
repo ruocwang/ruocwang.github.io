@@ -8,33 +8,70 @@ main:
   #   bibtex: https://bib.yliu.me/MICCAI23.txt
   #   image: ./assets/img/teaser_example_2.png
   #   notes: Early Accept
+  - title: "MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?"
+    authors: Xirui Li, Hengguang Zhou*, <strong>Ruochen Wang</strong>, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsie
+    conference_short: Arxiv
+    conference: <strong>(Arxiv)</strong>, 2024.
+    notes: TurningPoint AI, Under Review
+    image: assets/img/HarryAvatar.webp
+    page: 
+    pdf: https://arxiv.org/abs/2406.17224
+    code: 
+
+  - title: "Large Language Models are Interpretable Learners"
+    authors: <strong>Ruochen Wang</strong>, Si Si, Felix Yu, Dorothea Wiesmann, Cho-Jui Hsieh, Inderjit Dhillon
+    conference_short: Arxiv
+    conference: <strong>(Arxiv)</strong>, 2024.
+    notes: Google Research, Under Review
+    image: assets/img/HarryAvatar.webp
+    pdf: https://arxiv.org/abs/2406.17224
+    code: https://github.com/ruocwang/llm-symbolic-program
+
+  - title: "The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise"
+    authors: Yuanhao Ban, <strong>Ruochen Wang</strong>, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, Minhao Cheng 
+    conference_short: Arxiv
+    conference: <strong>(Arxiv)</strong>, 2024.
+    notes: TurningPoint AI, Under Review
+    image: assets/img/HarryAvatar.webp
+    pdf: https://arxiv.org/abs/2406.01970
+
   - title: "Understanding the Impact of Negative Prompts: When and How Do They Take Effect?"
     authors: Yuanhao Ban, <strong>Ruochen Wang</strong>, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2024.
-    notes: ARC group present, Under Review
+    notes: TurningPoint AI, Under Review
     image: assets/img/HarryAvatar.webp
+    pdf: https://arxiv.org/abs/2406.02965
 
   - title: "MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion"
     authors: Sen Li, <strong>Ruochen Wang</strong>, Cho-Jui Hsieh, Minhao Cheng, Tianyi Zhou
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2024.
-    notes: ARC group present, Under Review
+    notes: TurningPoint AI, Under Review
     image: assets/img/HarryAvatar.webp
+    page: https://measure-infinity.github.io/mulan/
+    pdf: https://arxiv.org/abs/2402.12741
+    code: https://github.com/measure-infinity/mulan-code
 
   - title: "DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers"
     authors: Xirui Li, <strong>Ruochen Wang</strong>, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh
     conference_short: Arxiv
     conference: <strong>(Arxiv)</strong>, 2024.
-    notes: ARC group present, Under Review
+    notes: TurningPoint AI, Under Review
     image: assets/img/HarryAvatar.webp
+    page: https://xirui-li.github.io/DrAttack/
+    pdf: https://arxiv.org/abs/2402.16914
+    code: https://github.com/xirui-li/DrAttack
 
   - title: "One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts"
     authors: <u><strong>Ruochen Wang*</strong></u>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
     conference_short: ICML
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
-    notes: ARC group present
-    image: assets/img/HarryAvatar.webpa
+    notes: TurningPoint AI
+    image: assets/img/HarryAvatar.webp
+    page: 
+    pdf: https://arxiv.org/abs/
+    code: https://github.com/ruocwang/mixture-of-prompts
 
   - title: "dPOD: On Discrete Prompt Optimization for Diffusion Models"
     authors: <u><strong>Ruochen Wang</strong></u>, Ting Liu, Cho-jui Hsieh, Boqing Gong
@@ -42,6 +79,9 @@ main:
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     notes: Work done at Google
     image: assets/img/HarryAvatar.webp
+    page: 
+    pdf: https://arxiv.org/abs/
+    code: https://github.com/ruocwang/dpo-diffusion
 
   - title: "Ameliorate Spurious Correlations in Dataset Condensation"
     authors: Justin Cui, <strong>Ruochen Wang</strong>, Yuanhao Xiong, Cho-jui Hsieh
