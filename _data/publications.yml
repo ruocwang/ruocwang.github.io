@@ -74,7 +74,7 @@ main:
     code: https://github.com/ruocwang/mixture-of-prompts
 
   - title: "On Discrete Prompt Optimization for Diffusion Models"
-    authors: <u><strong>Ruochen Wang</strong>, Ting Liu, Cho-jui Hsieh, Boqing Gong
+    authors: <strong>Ruochen Wang</strong>, Ting Liu, Cho-jui Hsieh, Boqing Gong
     conference_short: ICML
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     notes: Work done at Google
@@ -121,7 +121,7 @@ main:
     image: assets/img/TiagraAvatar.webp
 
   - title: "Generalizing Few-Shot NAS with Gradient Matching"
-    authors: Shoukang Hu*, <u><strong>Ruochen Wang*</strong>, Lanqing Hong, Zhenguo Li, Cho-Jui Hsieh, Jiashi Feng (*Equal Contribution)
+    authors: Shoukang Hu*, <strong>Ruochen Wang*</strong>, Lanqing Hong, Zhenguo Li, Cho-Jui Hsieh, Jiashi Feng (*Equal Contribution)
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.
     pdf: https://arxiv.org/abs/2203.15207
@@ -136,7 +136,7 @@ main:
     image: assets/img/BaconAvatar.webp
 
   - title: "RANK-NOSH: Efficient Predictor-Based NAS via Non-Uniform Successive Halving"
-    authors: <u><strong>Ruochen Wang</strong>, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh
+    authors: <strong>Ruochen Wang</strong>, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh
     conference_short: ICCV
     conference: The IEEE / CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.
     pdf: https://arxiv.org/abs/2108.08019
@@ -144,7 +144,7 @@ main:
     image: assets/img/BarbieAvatar.webp
 
   - title: "Rethinking Architecture Selection in Differentiable NAS"
-    authors: <u><strong>Ruochen Wang</strong>, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
+    authors: <strong>Ruochen Wang</strong>, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
     pdf: https://arxiv.org/abs/2203.15207
@@ -153,7 +153,7 @@ main:
     notes: Outstanding Paper Award (1/8)
 
   - title: "DrNAS: Dirichlet Neural Architecture Search"
-    authors: Xiangning Chen*, <u><strong>Ruochen Wang*</strong>, Minhao Cheng*, Xiaocheng Tang, Cho-Jui Hsieh (*Equal Contribution)
+    authors: Xiangning Chen*, <strong>Ruochen Wang*</strong>, Minhao Cheng*, Xiaocheng Tang, Cho-Jui Hsieh (*Equal Contribution)
     conference_short: ICLR
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
     pdf: https://arxiv.org/abs/2203.15207
