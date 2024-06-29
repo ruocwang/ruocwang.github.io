@@ -22,7 +22,7 @@ main:
   - title: "The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise"
     authors: Yuanhao Ban, <strong>Ruochen Wang</strong>, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, Minhao Cheng 
     conference_short: Arxiv
-    conference: <strong>(Arxiv)</strong>, 2024.
+    conference: <strong>(Arxiv)</strong>, 2024
     notes: TurningPoint AI, Under Review
     image: assets/img/HarryAvatar.webp
     pdf: https://arxiv.org/abs/2406.01970
@@ -64,7 +64,7 @@ main:
     code: https://github.com/xirui-li/DrAttack
 
   - title: "One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts"
-    authors: <u><strong>Ruochen Wang*</strong>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
+    authors: <strong>Ruochen Wang*</strong>, Sohyun An*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh (*Equal Contribution)
     conference_short: ICML
     conference: The International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     notes: TurningPoint AI
