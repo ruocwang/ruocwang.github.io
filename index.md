@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am the founder and current principal of TurningPoint AI Research focus on multimodal agents (no we are not yet a startup) and a final-year Ph.D. at UCLA with Prof. [Cho-Jui Hsieh](https://scholar.google.com/citations?user=Wy89g4IAAAAJ&hl=en). I am also a long-term Student Researcher at Google working with Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en), and [Ting Liu](https://scholar.google.com/citations?user=4wSfAIQAAAAJ&hl=en).
+I am the founder and current principal of [TurningPoint AI Research](https://www.turningpoint-ai.com/) focus on multimodal agents (no we are not yet a startup) and a final-year Ph.D. at UCLA with Prof. [Cho-Jui Hsieh](https://scholar.google.com/citations?user=Wy89g4IAAAAJ&hl=en). I am also a long-term Student Researcher at Google working with Prof. [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Boqing Gong](https://scholar.google.com/citations?user=lv9ZeVUAAAAJ&hl=en), and [Ting Liu](https://scholar.google.com/citations?user=4wSfAIQAAAAJ&hl=en).
 
 I was the 1st-author recepient of the **[Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)** at ICLR.
 I received my B.S. in Computer Science and Statistics at the University of Michigan, with the highest distinction.
@@ -22,7 +22,7 @@ My goal is to build highly automatized, reliable and self-evolving multimodal la
 
 ## Awards (selected)
 - Outstanding Paper Award, ICLR 2021, 04/2021.
-- Outstanding Graduate Student (Master’s degree, 1 per department), UCLA CS Department, 05/2022.
+- Outstanding Graduate Student (1 per department), UCLA CS Department, 05/2022.
 - Award of Excellence, Microsoft Research Asia (MSRA), 09/2019.
 - Highest Distinction Graduate Award, The University of Michigan, 08/2019.
 - Berkeley Fung’s Excellence Scholarship, UC Berkeley Graduate Admission Committee, 03/2019.
@@ -31,9 +31,9 @@ My goal is to build highly automatized, reliable and self-evolving multimodal la
 
 
 ## Outreach
-- **[TurningPoint AI]** TPAI is a multi-lab research collaboration dedicated to exploring key technologies in building reliable multimodal foundational agents (involving MLLMs and Diffusion Models). We are a compact but hardcore team aims at pushing the boundary of state-of-the-art academic research, and eventually commercialize the results. For more information, please visit our website [here](https://turningpointai.wixsite.com/home).
+- **[TurningPoint AI]** TPAI is a multi-lab research collaboration dedicated to exploring key technologies in building reliable multimodal foundational agents (involving MLLMs and Diffusion Models). We are a compact but hardcore team aims at pushing the boundary of state-of-the-art academic research, and eventually commercialize the results. For more information, please visit our [website](https://www.turningpoint-ai.com/).
 
-- **[Work]** I am open to industrial opportunities (Corporate Research Team, VC, Startup) focus on building and commericializing next generation AIGC technologies. If you are in VC/Startup business or leading a corporate research team, I'd be delighted to have a chat with you.
+- **[Work]** I am open to industrial opportunities (Corporate Research Team, VC, Startups) focus on building and commericializing next generation AIGC technologies. If you are in VC/Startup business or leading a corporate research team, I'd be delighted to have a chat with you.
 
 
 <!-- ## Highlighted News
